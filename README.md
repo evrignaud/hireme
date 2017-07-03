@@ -1,7 +1,9 @@
-## I'm open for new opportunities
+## I'm open to new opportunities
 
-Feel free to read my resume and consider hiring me
+I'm actively searching for a new job. I'm looking forward for a job proposal
 
-[:us: Full English resume](https://evrignaud.github.io/hireme/Etienne%20Vrignaud%20-%20Senior%20Full%20Stack%20Architect%20-%20en.pdf)
+* [LinkedIn profile](https://www.linkedin.com/in/etienne-vrignaud-630810a9/)
 
-[:fr: Full French resume](https://evrignaud.github.io/hireme/Etienne%20Vrignaud%20-%20Architecte%20Full%20Stack%20Senior%20-%20fr.pdf)
+* [:us: Full English resume](https://evrignaud.github.io/hireme/Etienne%20Vrignaud%20-%20Senior%20Full%20Stack%20Architect%20-%20en.pdf)
+
+* [:fr: Full French resume](https://evrignaud.github.io/hireme/Etienne%20Vrignaud%20-%20Architecte%20Full%20Stack%20Senior%20-%20fr.pdf)
